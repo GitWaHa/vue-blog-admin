@@ -37,7 +37,7 @@ const cdn = {
 module.exports = {
     lintOnSave: false,
     indexPath: "index.html",
-    publicPath: "/",
+    publicPath: "/admin",
     outputDir: "./dist/admin",
     assetsDir: "static",
     productionSourceMap: false,
